@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #23252C;
+}
+.avatar{
+    width: 12rem;
+}
+.card{
+    background-color: #1A1B21;
+}
+.upper-div  h1{
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.upper-div  h2{
+    color: aliceblue;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #F3BF99;
+    /* padding-top: .1rem; */
+    padding-bottom: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.buttons .btn{
+    padding: 3px 2rem;
+}
+.section{
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    width: 15rem;
+}
+.section-title{
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-bottom: 2px solid aliceblue ;
+    width: 50%;
+    padding-bottom: 6px;
+}
+p{
+    color: aliceblue;
+    font-weight: 300;
+}
+.footer{
+    background-color: #161619;
+    /* padding: 1rem; */
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    font-size: 2.5rem;
+    color: #23252C;
+}
